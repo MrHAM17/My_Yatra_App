@@ -310,8 +310,11 @@ Looking for further optimizations in code:
    - https://www.yatra.com/bus-booking 
 
 - Skiddle Website
-   - https://www.skiddle.com/features/ticket-resell.php 
+   - https://www.skiddle.com/features/ticket-resell.php  
 
+- My Yatra 
+   - https://www.facebook.com/ConnectMyYatra/
+     
 - Youtube
    - https://youtu.be/F_UemS493IM
    - https://youtu.be/j1K5GTDycfg
